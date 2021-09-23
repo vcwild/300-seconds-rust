@@ -1,3 +1,3 @@
 # 300 Seconds of Rust
 
-Tutorial for first steps in the Rust language
+Togglebit Tutorial for first steps in the Rust programming language
